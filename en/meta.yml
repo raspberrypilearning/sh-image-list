@@ -1,0 +1,9 @@
+title: Create a list to represent an image
+hero_image: images/banner.png
+description: Create a list to represent an image on the SenseHAT LED matrix
+version: 4
+listed: false
+copyedit: false
+last_tested: "2022-05-19"
+steps:
+  - title: Create a list to represent an image
